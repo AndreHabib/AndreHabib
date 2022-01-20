@@ -10,12 +10,14 @@
 
 - Mobile development using **Flutter**
 - State management libraries like **MobX**
+- Backend development using **C#**
+- Framework **dotNet**
 
 ## 💻 Technologies in learning
 
 - Mobile development learning **React Native**
 - State management libraries like **Bloc**
-- Backend development learning **Python**
+- Backend development learning **Python** 
 
 #  
 <div style="display: inline_block"><br>
