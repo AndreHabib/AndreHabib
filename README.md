@@ -11,7 +11,7 @@
 - Mobile development using **Flutter**
 - State management libraries like **MobX**
 - Backend development using **C#**
-- Framework **dotNet**
+- Framework **dotNET**
 
 ## 💻 Technologies in learning
 
