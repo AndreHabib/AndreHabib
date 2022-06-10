@@ -17,7 +17,7 @@
 
 - Mobile development learning **React Native**
 - State management libraries like **Bloc**
-- Backend development learning **Python** 
+- Backend development learning **Python, Django** 
 
 #  
 <div style="display: inline_block"><br>
