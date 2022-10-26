@@ -10,8 +10,8 @@
 
 - Mobile development using **Flutter**
 - State management libraries like **MobX**
-- Backend development using **C#**
-- Framework **dotNET**
+- Backend development using **Python** 
+- Framework **Django**
 
 ## 💻 Technologies in learning
 
