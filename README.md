@@ -9,14 +9,14 @@
 ## 💻 Technologies in practice
 
 - Mobile development using **Flutter**
-- State management libraries like **MobX**
+- State management libraries like **MobX, Bloc**
 - Backend development using **Python** 
 - Framework **Django**
 
 ## 💻 Technologies in learning
 
-- Mobile development learning **React Native**
-- State management libraries like **Bloc**
+- Mobile development learning **Swift, Kotlin**
+- State management libraries like **GetX**
 - Backend development learning **Python, Django** 
 
 #  
